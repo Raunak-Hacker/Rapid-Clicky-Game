@@ -1,15 +1,12 @@
-
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 0,
+    "title": "Lectures Cancelled",
+    "content": "The linux lecture which was suppose to happen at 2pm is rescheduled to 3pm"
+  },
+  {
+    "id": 1,
+    "title": " raju good booy part2",
+    "content": "All students are hereby informed about a change in school timings from 1st October, 20xx. The school will now start at 9 a.m. & end at 3 p.m. In the past few years, it has been seen that winters are rather severe and it becomes quite difficult to start early due to the extreme cold weather and the dense fog. So these new timings will be followed till further notice."
   }
-}
+]
