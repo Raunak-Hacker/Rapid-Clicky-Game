@@ -1,0 +1,127 @@
+{
+
+  "clubs": [
+
+    {
+
+      "id": 1,
+
+      "name": "Karate Blasters",
+
+      "title": "Best KArate lamaoaoaoaoaoaoa",
+
+      "joined": false
+
+    },
+
+    {
+
+      "id": 2,
+
+      "name": "nature",
+
+      "title": "enjoying nature",
+
+      "joined": false
+
+    },
+
+    {
+
+      "id": 3,
+
+      "name": "coding",
+
+      "title": "coding",
+
+      "joined": true
+
+    },
+
+    {
+
+      "id": 4,
+
+      "name": "music",
+
+      "title": "music",
+
+      "joined": false
+
+    },
+
+    {
+
+      "id": 5,
+
+      "name": "sports",
+
+      "title": "sports",
+
+      "joined": false
+
+    },
+
+    {
+
+      "id": 6,
+
+      "name": "art",
+
+      "title": "art",
+
+      "joined": false
+
+    },
+
+    {
+
+      "id": 7,
+
+      "name": "dance",
+
+      "title": "dance",
+
+      "joined": false
+
+    },
+
+    {
+
+      "id": 8,
+
+      "name": "drama",
+
+      "title": "drama",
+
+      "joined": false
+
+    },
+
+    {
+
+      "id": 9,
+
+      "name": "history",
+
+      "title": "history",
+
+      "joined": false
+
+    },
+
+    {
+
+      "id": 10,
+
+      "name": "geography",
+
+      "title": "geography",
+
+      "joined": false
+
+    }
+
+  ]
+
+}
